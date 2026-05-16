@@ -1,3 +1,8 @@
+## ⚠️ Data Files
+Large files (pipeline.pkl, datasets/) are excluded from this repo.
+To run locally, retrain the model using the notebooks in S6_model_building/
+or contact me for the pre-trained files.
+
 # 🏙️ Gurgaon Real Estate Analytics Platform
 
 > An end-to-end machine learning platform for property price prediction, market analytics, and society recommendations in Gurgaon, India.

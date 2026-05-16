@@ -2,8 +2,10 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+cache/
+
+# Large binary files — too big for GitHub
 *.pkl
 *.parquet
-datasets/
-cache/
-.env
+*.geojson
+S7_streamlit_deployment/datasets/
